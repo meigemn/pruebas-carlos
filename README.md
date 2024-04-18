@@ -1,6 +1,6 @@
 NGFCGFFCarlos Carrasco Carmona
-#Primera linea para conflicto 2
+#Primera linea para conflicto
 #Segunda Linea 
 ##Tercera linea
-#Linea conflicto github
+
 
